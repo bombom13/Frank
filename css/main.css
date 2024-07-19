@@ -300,6 +300,10 @@ main .mbox .title2 {
     flex-wrap: wrap;
 }
 
+.section02 .items .item .box:hover{
+    color: #fff;
+}
+
 .section02 .items .item .color {
     width: 100%;
     height: 100%;
